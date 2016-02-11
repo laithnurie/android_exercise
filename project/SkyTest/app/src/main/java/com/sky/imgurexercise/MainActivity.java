@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements SearchResultCallb
  *  consume an API and handle image loading.
  *
  *  Task 1:
- *  Create a recyclerview that show the images and some of their data.
+ *  Create a list that show the images and some of their data.
  *
  *  Task 2:
  *  Update the code to be able to repopulate the list after search submission
@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements SearchResultCallb
  *  Detect the image type and show a different presentation of that result
  *
  *  Task 4:
- *  Having a lot of images in recyclerview can cause gittering while scrolling,
+ *  Having a lot of images in list can cause gittering while scrolling,
  *  address this problem, in anyway you like
  *
  *  Task 5:
