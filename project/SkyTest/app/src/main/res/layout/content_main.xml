@@ -13,6 +13,13 @@
     tools:showIn="@layout/activity_main"
     tools:context="com.sky.imgurexercise.MainActivity">
 
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recyclerview">
+
+    </android.support.v7.widget.RecyclerView>
+
     <TextView
         android:text="Hello World!"
         android:layout_width="wrap_content"
